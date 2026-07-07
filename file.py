@@ -1,2 +1,3 @@
 def sum(a: int, b: int)->int:
-    return a + b
+    sum = a + b + 1
+    return sum
